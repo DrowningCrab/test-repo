@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 your dog is cute
+=======
+your dog is cute
+>>>>>>> B_branch
 new thing
